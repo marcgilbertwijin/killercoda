@@ -1,0 +1,17 @@
+{
+  "title": "Tuto Java",
+  "description": "On va tester !",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "text": "step1.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
