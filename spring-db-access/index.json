@@ -21,28 +21,10 @@
     }
   },
   "files": [],
-  "environment": {
-    "showdashboard": true,
-    "dashboards": [
-      {
-        "name": "Local Web Browser",
-        "href": "https://[[CLIENT_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com"
-      },
-      {
-        "name": "OpenShift Console",
-        "href": "https://console-openshift-console-[[HOST_SUBDOMAIN]]-443-[[KATACODA_HOST]].environments.katacoda.com"
-      }
-    ],
-    "uilayout": "editor-terminal",
-    "uisettings": "java",
-    "hideintro": false,
-    "hideHiddenFiles": true,
-    "uieditorpath": "/root/projects/rhoar-getting-started/spring/spring-db-access",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
-  },
   "backend": {
-    "autoUpgrade": false,
-    "imageid": "theia",
-    "port": 8443
+    "imageid": "ubuntu"
+  },
+  "interface": {
+    "layout": "ide"
   }
 }
