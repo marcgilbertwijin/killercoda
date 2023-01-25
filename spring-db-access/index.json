@@ -42,7 +42,7 @@
   },
   "backend": {
     "autoUpgrade": false,
-    "imageid": "k8s 1node",
+    "imageid": "kubernetes-kubeadm-1node",
     "port": 8443
   }
 }
